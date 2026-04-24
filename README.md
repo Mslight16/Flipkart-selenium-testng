@@ -31,6 +31,21 @@ The framework follows the **Page Object Model (POM)** design pattern for better 
 
 ---
 
+## 🔍 Features
+- Page Object Model (POM) design pattern  
+- Explicit waits using WebDriverWait  
+- TestNG assertions  
+- Popup handling  
+- Scroll using JavaScriptExecutor  
+
+---
+
+## 3️⃣ Run via TestNG
+- Right-click on `testng.xml`
+- Select **Run As → TestNG Suite**
+
+---
+
 ### 2️⃣ Run via Maven
 ```bash
 mvn clean test
